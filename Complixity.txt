@@ -1,0 +1,8 @@
+first Answer:
+	O(1)
+second Answer:
+	O(log(n))
+third Answer:
+	the app will return ann error because the function getHype declared after the use 
+forth Answer: 
+	O(1)
